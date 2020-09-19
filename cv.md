@@ -1,10 +1,10 @@
  # Maxim Novozhenin
  
- Contact Info: *email:novozhenin.maxim@gmail.com*
+ Contact Info:
+ *email:novozhenin.maxim@gmail.com*
 
  ## Summary 
-	My goal is to become a great full stack software engineer. For this, I study the combinations Java + Spring and JavaScript + Node.js. I like programming because it is both practical knowledge and a creative profession.
-	I learn quickly, approach business responsibly.
+My goal is to become a great full stack software engineer. For this, I study the combinations Java + Spring and JavaScript + Node.js. I like programming because it is both practical knowledge and a creative profession.I learn quickly, approach business responsibly.
 
 
  ## Skills 
